@@ -1,4 +1,5 @@
 class GetRequester
+  require 'uri'
   
   def initialize(url)
     
